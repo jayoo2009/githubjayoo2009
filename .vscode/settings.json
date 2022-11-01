@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a26fd5fe-38dd-4d3e-891b-960c3d51410c/AppServices/subscriptions/a26fd5fe-38dd-4d3e-891b-960c3d51410c/resourceGroups/jaewoo01/providers/Microsoft.Web/sites/jaewoo01"
+}
